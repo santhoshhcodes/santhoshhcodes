@@ -59,8 +59,8 @@ A performance-tuned library of atomic React Native components, decoupled state h
 ## 📊 Git Engine Performance
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=santhoshhcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Santhosh's GitHub Stats" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshhcodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santhoshhcodes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Santhosh's GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshhcodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
 </div>
 
 ---
