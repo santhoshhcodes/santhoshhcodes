@@ -13,7 +13,7 @@ Performance-driven software engineer specializing in designing and implementing 
 
 | Category | Engineering Stack |
 | :--- | :--- |
-| **Core Platforms** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Core Platforms** | [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | **Core Performance** | Native Bridging Optimization · Multi-Threaded Asset Delivery |
 | **State & Data** | React Native MMKV (Hardware-Encrypted) · Redux Toolkit · TanStack Query |
 | **Navigation** | React Navigation Framework |
@@ -22,7 +22,7 @@ Performance-driven software engineer specializing in designing and implementing 
 
 | Category | Engineering Stack |
 | :--- | :--- |
-| **Core Engine** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Core Engine** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) |
 | **API Architecture** | Context-Driven Dependency Injection Layers · Asynchronous Route Execution |
 | **Security Frameworks** | Pure JWT Implementation · Refresh Token Rotation · RBAC Engines |
 
@@ -30,7 +30,7 @@ Performance-driven software engineer specializing in designing and implementing 
 
 | Category | Engineering Stack |
 | :--- | :--- |
-| **Core Infrastructure** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Core Infrastructure** | [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/en-us/sql/sql-server/) [![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) |
 | **Database Engines** | Microsoft SQL Server Relational Tuning · SQLite Local Sync Engines |
 | **Workflow Tooling** | Enterprise Version Control · Postman Automation Pipelines · Linux Cloud Deployments |
 
