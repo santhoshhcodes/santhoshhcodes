@@ -39,7 +39,9 @@ Performance-driven software engineer specializing in designing and implementing 
 ## 📊 Core Language Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshhcodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" pointer-events="none" />
+  <a href="#" onclick="return false;" style="cursor: default;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshhcodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" pointer-events="none" />
+  </a>
 </div>
 
 ---
