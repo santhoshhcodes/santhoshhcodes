@@ -36,18 +36,21 @@ Performance-driven software engineer specializing in designing and implementing 
 
 ---
 
+---
+
 ## 💼 Core Enterprise Engineering Projects
 
-### 🏢 Jewellery ERP Suite | *Enterprise Manufacturing and Logistics Core*
-A comprehensive, high-throughput enterprise resource planning suite designed to handle highly dynamic manufacturing matrices, inventory pipelines, and automated production distribution workflows.
-* **Architectural Blueprint:** Engineered a high-efficiency backend pairing **FastAPI and SQL Server** to enforce strong consistency states during real-time inventory updates and transaction verifications.
+### 🏭 Jewellery ERP Suite | *Enterprise Manufacturing Core*
+A high-throughput ERP suite built to handle complex manufacturing matrices, real-time inventory pipelines, and automated production distribution distribution workflows.
+* **Core Execution:** Developed a fast, highly consistent data layout coupling **FastAPI and SQL Server** to protect inventory mutation operations against concurrent race conditions.
+* *See detailed code implementation in my pinned repositories below.*
 
 ---
 
-### 👥 Multi-Tenant B2B HRMS | *White-Labeled Corporate Infrastructure*
-A scalable, fully isolated enterprise human resource management system deployed as a multi-tenant cloud application where each tenant gets a clean, data-isolated environment.
-* **Production Modules:** Geofenced and hardware-bound mobile attendance verification, structural leave allocation engines, corporate performance matrix tracking, and granular authorization perimeters.
-* **Architectural Blueprint:** Implemented a dynamic tenant customization layer. Corporate branding assets, interface configuration objects, and hex color spaces adjust entirely in memory based securely on the validated incoming client bearer token payload.
+### 🤖 Smart HR Management System | *AI-Powered Workforce Infrastructure*
+An advanced corporate workspace automation engine featuring dynamic employee self-service pipelines, administrative verification flows, and conversational AI tooling.
+* **Core Execution:** Structured a modern decoupled architecture using **React Native, FastAPI, and SQL Server** to implement geofenced attendance logging and localized token parsing.
+* *See detailed code implementation and documentation in my pinned repositories below.*
 
 ---
 
@@ -59,8 +62,8 @@ A performance-tuned library of atomic React Native components, decoupled state h
 ## 📊 Git Engine Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhoshhcodes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Santhosh's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshhcodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santhoshhcodes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Santhosh's GitHub Stats" height="170px" pointer-events="none" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshhcodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" pointer-events="none" />
 </div>
 
 ---
@@ -77,7 +80,6 @@ A performance-tuned library of atomic React Native components, decoupled state h
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santhoshkannan8)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhoshhcodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://linkedin.com/in/santhoshkannan8) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/santhoshhcodes)
 
 </div>
