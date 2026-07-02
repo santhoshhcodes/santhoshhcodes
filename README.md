@@ -7,9 +7,9 @@ Performance-driven software engineer specializing in designing and implementing 
 
 ---
 
-## 🛠️ Technical Core and Systems Competence
+## Technical Core and Systems Competence
 
-### 📱 Frontend & Mobile Infrastructure
+### Frontend & Mobile Infrastructure
 
 | Category | Engineering Stack |
 | :--- | :--- |
@@ -18,7 +18,7 @@ Performance-driven software engineer specializing in designing and implementing 
 | **State & Data** | React Native MMKV (Hardware-Encrypted) · Redux Toolkit · TanStack Query |
 | **Navigation** | React Navigation Framework |
 
-### 🐍 Backend Engineering & Integration
+### Backend Engineering & Integration
 
 | Category | Engineering Stack |
 | :--- | :--- |
@@ -26,7 +26,7 @@ Performance-driven software engineer specializing in designing and implementing 
 | **API Architecture** | Context-Driven Dependency Injection Layers · Asynchronous Route Execution |
 | **Security Frameworks** | Pure JWT Implementation · Refresh Token Rotation · RBAC Engines |
 
-### 🗄️ Database Systems & Infrastructure
+### Database Systems & Infrastructure
 
 | Category | Engineering Stack |
 | :--- | :--- |
@@ -36,7 +36,7 @@ Performance-driven software engineer specializing in designing and implementing 
 
 ---
 
-## 📊 Core Language Metrics
+## Core Language Metrics
 
 <div align="center">
   <a href="#" onclick="return false;" style="cursor: default;">
@@ -46,7 +46,7 @@ Performance-driven software engineer specializing in designing and implementing 
 
 ---
 
-## 🚀 Active Domains of Technical Deep Dive
+## Active Domains of Technical Deep Dive
 
 * **System Design:** Distributed computing patterns · Relational database partitioning strategies · High-concurrency optimization loops.
 * **Clean Software Architecture:** Designing loosely coupled, domain-driven architectures to prevent framework dependencies and guarantee long-term system maintainability.
